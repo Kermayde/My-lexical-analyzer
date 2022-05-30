@@ -1027,10 +1027,5 @@ MT[23][13]=244;
 MT[23][14]=141;  
 MT[23][15]=244; 
 // Columnas con valores repetitivos
- for(int i=1; i<=30; i++){
-  MT[21][i]=22;  MT[48][i]=50;  MT[52][i]=54;  MT[55][i]=56;  MT[57][i]=58;
-  MT[59][i]=60;  MT[61][i]=62;  MT[63][i]=64;  MT[65][i]=66;  MT[68][i]=69;
-  MT[70][i]=71;  MT[72][i]=73;  MT[74][i]=75;  MT[80][i]=81;  MT[82][i]=83;
-  MT[94][i]=95;
- }
+
 }//fin de la funcion llenar_matriz()

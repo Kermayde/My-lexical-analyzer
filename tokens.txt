@@ -1,0 +1,9 @@
+NumeroEntero,	15
+Suma,		+
+NumeroEntero,	30
+Divide,		/
+NumeroEntero,	5
+Divide,		/
+Suma,		+
+Identificador,	comment
+Suma,		+
